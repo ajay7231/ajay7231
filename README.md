@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Ajay
+## Hi there 👋, my name is Ajay
 ##### I am a 2nd year IT student from Jc Bose University of Science and Technology, Faridabad.
 
 ##### Skills:  JS / HTML / CSS/ NODE.JS
@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on Web development 
 - 👯 I’m looking to collaborate on web projects 
 
+## Reach me at
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajay7231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajay-mittal-a86a1a196/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eye_ajay/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/eye_Ajay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ajaymittal7231@gmail.com)  
 
