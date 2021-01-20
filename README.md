@@ -4,7 +4,7 @@
 
 ##### Skills:  JS / HTML / CSS/ NODE.JS
 
- 🔭 I’m currently working on Web development 
+ 🔭 I’m currently working on Web development <br>
  👯 I’m looking to collaborate on web projects 
 
 ## Reach me at
