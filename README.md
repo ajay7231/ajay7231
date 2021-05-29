@@ -1,6 +1,6 @@
 
 ## Hi there 👋, my name is Ajay
-##### Hello, I am IT Sophomore  from Jc Bose University of Science and Technology, Faridabad.
+##### I am IT Sophomore  from Jc Bose University of Science and Technology, Faridabad.
 
 ##### Skills:  JS / HTML / CSS/ NODE.JS/ Angular
 
