@@ -1,8 +1,8 @@
 
 ## Hi there 👋, my name is Ajay
-##### I am a 2nd year IT student from Jc Bose University of Science and Technology, Faridabad.
+##### Hello, I am IT Sophomore  from Jc Bose University of Science and Technology, Faridabad.
 
-##### Skills:  JS / HTML / CSS/ NODE.JS
+##### Skills:  JS / HTML / CSS/ NODE.JS/ Angular
 
  🔭 I’m currently working on Web development <br>
  👯 I’m looking to collaborate on web projects 
