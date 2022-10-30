@@ -28,6 +28,7 @@
 #### Technologies I have Worked
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=5ED3F3)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express.js&logoColor=339933)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-a950cc?style=flat&logo=bootstrap&logoColor=white)
