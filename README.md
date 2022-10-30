@@ -1,8 +1,8 @@
 
 ## Hi there 👋, I am Ajay
-##### I am IT Junior  from Jc Bose University of Science and Technology, Faridabad.
+##### I am IT Senior  from Jc Bose University of Science and Technology, Faridabad.
 
-##### Skills:  JS / HTML / CSS/ NODE.JS/ Angular
+##### Skills:  JS / HTML / CSS / REACTJS / NODE.JS / ML
 
  🔭 I’m currently working on Web development <br>
  👯 I’m looking to collaborate on web projects 
@@ -38,10 +38,10 @@
 
 #### Reach me at
 
-<a href="https://twitter.com/eye_Ajay" target="_blank">
+<a href="https://twitter.com/a_jax_m" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/></a>
 <a href="https://www.linkedin.com/in/ajay-mittal-a86a1a196/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/eye__ajay/" target="_blank">
+<a href="https://www.instagram.com/eye_ajax/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
 
