@@ -1,5 +1,5 @@
 
-## Hi there 👋, I am Ajay
+## Hi there 👋, I am Ajay![stat](https://komarev.com/ghpvc/?username=ajay7231&style=flat-square)
 ##### I am IT Senior  from Jc Bose University of Science and Technology, Faridabad.
 
 ##### Skills:  JS / HTML / CSS / REACTJS / NODE.JS / ML
